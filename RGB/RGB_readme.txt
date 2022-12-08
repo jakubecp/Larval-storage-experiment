@@ -1,0 +1,1 @@
+Dataset S1 (table). Values of RGB from the light and dark parts of N. littoralis larvae. Type of fixative and storage solution is indicated. Values of RGB are given for each of 14 measuring periods in two columns (light and dark part).
