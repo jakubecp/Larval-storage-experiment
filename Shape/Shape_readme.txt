@@ -1,0 +1,1 @@
+Dataset S2 (table). Shapes of N. littoralis larvae measured from the lateral side as angle between the anterior edge of the pronotum and the base of the urogomphi, with its vertex in the middle of the tergite on abdominal segment III. Type of fixative and storage solution is indicated. Angle values are given for the last measuring period (08/2021).
