@@ -1,1 +1,1 @@
-Accesory files for DNA analysis of the stored samples.
+Dataset S3 (.ab1 electropherogram files). Results of DNA sequencing. Supplementary raw sequences for each treatment combination.
